@@ -1,4 +1,4 @@
-package SelfStudy;
+package SelfStudy; //Program to Display Hello World
 
 public class HelloWorld {
 	public static void main (String [] args) {

@@ -1,4 +1,4 @@
-package SelfStudy;
+package selfStudy;
 
 public class SwapCase 
 {

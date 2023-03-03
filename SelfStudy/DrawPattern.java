@@ -11,9 +11,9 @@ public class DrawPattern {
 	public static void main(String[] args)
 	{
 		int rows = 5;
-		for(int i = rows; i>=1;i--)
+		for(int i = rows; i>=1;i--) // to indicate/point a row
 		{
-			for (int j = rows; j>=i;j--)
+			for (int j = rows; j>=i;j--) //to write columnwise in an indicated row
 			{
 				System.out.print(""+j);
 			}
